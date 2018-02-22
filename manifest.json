@@ -8,7 +8,7 @@
     "sizes": "512x512",
     "type": "image/png"
   }],
-  "background_color": "#f79c34ea",
-  "theme_color": "#f79c34ea",
+  "background_color": "#f9690e",
+  "theme_color": "#f9690e",
   "orientation": "portrait"
 }
