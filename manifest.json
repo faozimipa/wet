@@ -1,0 +1,14 @@
+{
+  "name": "Tumbas.in",
+  "short_name": "Tumbas.in",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [{
+    "src": "assets/images/logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "background_color": "#f79c34ea",
+  "theme_color": "#f79c34ea",
+  "orientation": "portrait"
+}
